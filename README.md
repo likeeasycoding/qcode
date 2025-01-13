@@ -34,21 +34,8 @@ https://www.youtube.com/@QuickCodeDeveloper
 ##### **<span style="color:red">注意mac版本需要在隐私和安全中允许打开这个软件</span>**
 
 
-##### win64版本： **quick-server-1.0.0-win64.zip**
+##### win64版本： **quick-server-1.0.1-win64.zip**
 
-
-#### ***********************************
-#### v1.0.0 （2025-01-03）
-
-
-##### Mac M芯片版本： **qcode-server-1.0.0-mac(Apple Silicon).zip**
-
-##### Mac Intel芯片版本： **qcode-server-1.0.0-mac(Intel).zip**
-
-##### **<span style="color:red">注意mac版本需要在隐私和安全中允许打开这个软件</span>**
-
-
-##### win64版本： **quick-server-1.0.0-win64.exe**
 
 
 
