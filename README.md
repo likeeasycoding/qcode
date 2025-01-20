@@ -40,7 +40,7 @@ https://www.youtube.com/@QuickCodeDeveloper
 ##### **<span style="color:red">注意mac版本需要在隐私和安全中允许打开这个软件</span>**
 
 
-##### win64版本： **quick-server-1.0.1-win64.zip**
+##### win64版本： **quick-server-win64.zip**
 
 
 
