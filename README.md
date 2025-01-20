@@ -17,6 +17,12 @@ https://www.youtube.com/@QuickCodeDeveloper
 ##### 1. 邮箱：464380608@qq.com
 ##### 2. qq群： 740145852 
 
+#### ***********************************
+#### v1.0.2 （2025-01-19）
+
+##### 版本说明：
+
+###### <span style="color:green">1. 修复vue-admin代码bug</span>
 
 
 #### ***********************************
@@ -35,6 +41,7 @@ https://www.youtube.com/@QuickCodeDeveloper
 
 
 ##### win64版本： **quick-server-1.0.1-win64.zip**
+
 
 
 
