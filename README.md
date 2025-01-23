@@ -6,6 +6,10 @@
 
 
 #### 软件使用说明
+
+##### 小红书
+https://www.xiaohongshu.com/user/profile/598330b650c4b46f91466aac
+
 ##### bilibili
 https://space.bilibili.com/95329979
 
@@ -13,6 +17,9 @@ https://space.bilibili.com/95329979
 https://www.youtube.com/@QuickCodeDeveloper
 
 
+## 重要提示：
+### Mac版本需要在设置-隐私和安全-允许打开软件
+#### *********************************
 #### bug反馈,优化建议：
 ##### 1. 邮箱：464380608@qq.com
 ##### 2. qq群： 740145852 
@@ -40,7 +47,7 @@ https://www.youtube.com/@QuickCodeDeveloper
 ##### **<span style="color:red">注意mac版本需要在隐私和安全中允许打开这个软件</span>**
 
 
-##### win64版本： **quick-server-win64.zip**
+##### win64版本： **quick-server-1.0.2-win64.zip**
 
 
 
