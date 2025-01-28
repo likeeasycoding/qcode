@@ -18,7 +18,10 @@ https://www.youtube.com/@QuickCodeDeveloper
 
 
 ## 重要提示：
-### Mac版本需要在设置-隐私和安全-允许打开软件
+### Mac版本需要在系统偏好设置 > 安全性与隐私 > 通用 中，选择“任何来源”
+### 或者
+### 执行终端命令： xattr -d com.apple.quarantine ./quick-server-1.0.2(apple Silicon).app，去除苹果校验
+
 #### *********************************
 #### bug反馈,优化建议：
 ##### 1. 邮箱：464380608@qq.com
